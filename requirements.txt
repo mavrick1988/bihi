@@ -235,7 +235,7 @@ SQLAlchemy==1.4.22
 statsmodels==0.12.2
 sympy==1.9
 tables==3.6.1
-TBB==0.2
+TBB==2021.5.1
 tblib==1.7.0
 tenacity==8.0.1
 terminado==0.9.4
